@@ -60,19 +60,19 @@ This README is intentionally designed as a polished base template, so you can re
       <sub>Dashboard overview</sub>
     </td>
     <td align="center">
-      <img src="https://placehold.co/560x320/e2e8f0/0f172a?text=Reports+Page" alt="Reports screenshot placeholder" />
+      <img width="1920" height="966" alt="Screenshot from 2026-04-13 23-23-51" src="https://github.com/user-attachments/assets/db7881f1-435a-4aaf-beb0-195f869d1d0d" />
       <br />
       <sub>Reports and analytics</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://placehold.co/560x320/e2e8f0/0f172a?text=Students+Management" alt="Students management screenshot placeholder" />
+      <img width="1920" height="966" alt="Screenshot from 2026-04-13 23-24-46" src="https://github.com/user-attachments/assets/fa318f3d-9129-48b7-8137-95ca960edcff" />
       <br />
       <sub>Student management</sub>
     </td>
     <td align="center">
-      <img src="https://placehold.co/560x320/e2e8f0/0f172a?text=Mobile+or+Portal+View" alt="Portal screenshot placeholder" />
+      <img width="487" height="857" alt="Screenshot from 2026-04-13 23-25-23" src="https://github.com/user-attachments/assets/c44139db-0ddd-45c8-a597-fa749cd419f6" />
       <br />
       <sub>Portal or mobile experience</sub>
     </td>
