@@ -264,14 +264,3 @@ git push origin feature/your-feature-name
 Then open a pull request with a clear description of the change.
 
 ---
-
-## License
-
-Choose the license you want to publish under.
-
-```text
-MIT License
-```
-
-Or replace this section with your preferred license text and file reference.
-
