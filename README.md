@@ -55,7 +55,7 @@ This README is intentionally designed as a polished base template, so you can re
 <table>
   <tr>
     <td align="center">
-      <img src="https://placehold.co/560x320/e2e8f0/0f172a?text=Dashboard+Home" alt="Dashboard screenshot placeholder" />
+      <img alt="Screenshot from 2026-04-13 23-22-29" src="https://github.com/user-attachments/assets/8ce1b2ab-8893-4e49-8f53-a1652b839152" />
       <br />
       <sub>Dashboard overview</sub>
     </td>
