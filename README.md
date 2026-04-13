@@ -79,25 +79,6 @@ This README is intentionally designed as a polished base template, so you can re
   </tr>
 </table>
 
-### Image Setup
-
-Replace remote placeholders with your own assets, for example:
-
-```md
-<img src="./docs/images/banner.png" alt="Project banner" />
-<img src="./docs/images/dashboard-home.png" alt="Dashboard home" />
-```
-
-If you want cleaner repository organization, place images in:
-
-```text
-docs/
-  images/
-    banner.png
-    dashboard-home.png
-    reports.png
-```
-
 ---
 
 ## Tech Stack
