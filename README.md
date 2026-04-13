@@ -284,17 +284,6 @@ Then open a pull request with a clear description of the change.
 
 ---
 
-## Contact
-
-Replace this section with your real details:
-
-- Website: `https://your-domain.com`
-- Email: `your@email.com`
-- LinkedIn: `https://linkedin.com/in/your-profile`
-- Demo: `https://your-demo-link.com`
-
----
-
 ## License
 
 Choose the license you want to publish under.
