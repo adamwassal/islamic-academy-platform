@@ -55,7 +55,7 @@ This README is intentionally designed as a polished base template, so you can re
 <table>
   <tr>
     <td align="center">
-      <img alt="Screenshot from 2026-04-13 23-22-29" src="https://github.com/user-attachments/assets/8ce1b2ab-8893-4e49-8f53-a1652b839152" />
+      <img width="1920" height="966" alt="Screenshot from 2026-04-13 23-22-29" src="https://github.com/user-attachments/assets/9a9ff703-aaed-4f1c-87f2-c81bf89b871d" />
       <br />
       <sub>Dashboard overview</sub>
     </td>
